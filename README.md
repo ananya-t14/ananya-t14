@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 <hr/>
 
 
-I'm Ananya! Welcome to my Github Profile
+### I'm Ananya! Welcome to my Github Profile
+
+You can reach me <a href="mailto:tripathykhushi2002@gmail.com">here</a>
 <hr/>
 
 ## Most Used Languages 📚
