@@ -58,7 +58,7 @@ You can reach me <a href="mailto:tripathykhushi2002@gmail.com">here</a>
 ## My Statistics
 
 <br/>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rishitshivesh"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ananya-t14"></p>
 <p align="left">
   <!--<a href="https://portfolio.rishitshivesh.co.in">-->
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ananya-t14&show_icons=true&theme=gruvbox&hide_border=true" />
